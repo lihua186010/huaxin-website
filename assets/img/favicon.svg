@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e4da2"/>
+      <stop offset=".62" stop-color="#1b74e8"/>
+      <stop offset="1" stop-color="#2fb4e8"/>
+    </linearGradient>
+  </defs>
+  <!-- 六边形盾牌（科技 · 安全） -->
+  <path d="M24 2.5 L42.6 13.2 L42.6 34.8 L24 45.5 L5.4 34.8 L5.4 13.2 Z"
+        fill="url(#lg)"/>
+  <path d="M24 2.5 L42.6 13.2 L42.6 34.8 L24 45.5 L5.4 34.8 L5.4 13.2 Z"
+        fill="none" stroke="#ffffff" stroke-opacity=".18" stroke-width="1"/>
+  <!-- 火焰（消防） -->
+  <path d="M24 11.5 C27.4 16 30.3 19.9 30.3 23.9 C30.3 27.9 27.6 30.9 24 34.2 C20.4 30.9 17.7 27.9 17.7 23.9 C17.7 19.9 20.6 16 24 11.5 Z"
+        fill="#ffffff"/>
+  <!-- 双翼（航空） -->
+  <path d="M24 27.2 L13.8 34.6 L13.8 29.8 C17 28.4 20.6 27.2 24 27.2 Z" fill="#ffffff" fill-opacity=".92"/>
+  <path d="M24 27.2 L34.2 34.6 L34.2 29.8 C31 28.4 27.4 27.2 24 27.2 Z" fill="#ffffff" fill-opacity=".92"/>
+  <!-- 信号点（智慧互联） -->
+  <circle cx="24" cy="39.6" r="1.9" fill="#4cc9f2"/>
+  <circle cx="24" cy="39.6" r="3.6" fill="none" stroke="#4cc9f2" stroke-opacity=".45" stroke-width=".8"/>
+</svg>
